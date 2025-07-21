@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Verma</h1>
 <h3 align="center">👨‍💻 Hi, I’m Priyanshu Verma — Full Stack Developer passionate about building modern, user-friendly web apps. 🚀 Tech Stack: HTML • CSS • JavaScript • React.js • PHP • Core Java 📂 GitHub: github.com/priyanshu6386 🔗 LinkedIn: linkedin.com/in/priyanshu-verma-010867189 ⚡ Let’s connect & create something awesome!</h3>
 
-<img align="right" width="400" src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/cc03a70a-b9c0-4ccd-aae7-1962cd95c57d" />
-">
+<img align="right" width="400" src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/cc03a70a-b9c0-4ccd-aae7-1962cd95c57d" ">
 
 - 🔭 I’m currently working on **PHP Project**
 
